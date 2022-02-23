@@ -32,7 +32,7 @@
 - `Home Page`: When you go through this link first you have to login through google auth. 
 - `Selfie-feature`: This feature helps Users will see mobile shape camera then your webcam will on automatically.after that you can take selfie.
 - `preview-screen-feature`:This feature give you option either delelte your avatar or proceed to chat screen.
-- `screen-chat-feture`: This feature help users to see preview option with chat show type feature.
+- `screen-chat-feature`: This feature help users to see preview option with chat show type feature.
 - `preview-screen-timer`:this feature help to preview your avatar after 10 sec countdown. 
 - `Additional Features` : Kept the branding, fonts, colors and favicon and titles consistent throughtout the whole site to give a feel like the original site.
 
